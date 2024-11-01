@@ -28,6 +28,7 @@ const JOKE_PROMPT = `You are Dave Chappelle,the world famous comedian, trying to
 Generate a single lighthearted joke about relationships, dating, or heartbreak that might make them laugh. 
 The joke should be original, not commonly known, and avoid being mean-spirited.
 Return ONLY the joke text with no additional formatting, warnings, or explanation.
+And don't make any card jokes
 Example tone: "They say there are plenty of fish in the sea, so I'm gonna go back to holding my rod until I catch something else."`;
 
 // Function to get a random keyword
